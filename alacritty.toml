@@ -1,6 +1,7 @@
 [general]
 working_directory = "C:/Users/humti"
-import = ["./color.toml", "./font.toml", "./font.toml", "./terminal.toml", "./window.toml"]
-
-
-
+import = ["./color.toml",
+    "./font.toml",
+    "./terminal.toml",
+    "./window.toml",
+    "./keyboard.toml"]
