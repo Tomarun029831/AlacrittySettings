@@ -1,0 +1,4 @@
+[terminal.shell]
+program = "pwsh"
+args = ["-NoLogo", "-NoProfile"]
+
