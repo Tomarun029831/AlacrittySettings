@@ -1,7 +1,12 @@
 [general]
 working_directory = "C:/Users/humti"
-import = ["./color.toml",
+import = [
+    "./cyberpunkNeon-Theme.toml",
     "./font.toml",
     "./terminal.toml",
     "./window.toml",
-    "./keyboard.toml"]
+    "./keyboard.toml",
+]
+
+# LIKES
+# ./cyberpunkNeon-Theme.toml
